@@ -1,0 +1,124 @@
+.firstbigbox{
+ display:flex;
+ width:1000px;
+
+}
+.sb{
+    display:flex;
+}
+.bedt{
+    display:flex;
+    margin-top: -22px;
+    margin-bottom: -10px;
+}
+.bedstext2{
+    color:#909497;
+}
+.bedroomstoragetext2{
+    color:#909497;
+}
+.bedroomstoraget{
+    display:flex;
+    margin-top: -22px;
+
+}
+.mattressest{
+    display:flex;
+}
+.textilet{
+    display: flex;
+}
+.chestsofdrawerst{
+    display: flex;
+}
+.lightingt{
+    display: flex;
+}
+.mirrorst{
+    display: flex;
+}
+.secondboxinbigbox{
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.secondbigbox{
+ display:flex;
+ width:800px;
+
+}
+.bedroomfurniture{
+ width:300px;
+ height: 200px;
+}
+.firstline{
+    width:200px;
+}
+.secondline{
+    width:150px;
+    height:45px;
+    font-size: 30px;
+}
+.firstline{
+ font-size: 10px;
+}
+.secondline{
+ margin-top: -20px;
+ font-size: 15px;
+}
+.bedsimage{
+    margin-left: 0px;
+    margin-right: 15px;
+}
+.mattressesimage{
+    margin-right: 25px;
+}
+.longtext1{
+    color: #2F38CC;
+    font-size: 12px;
+}
+.bar1{
+    color: #7F8C8D;
+}
+.longtext2{
+    color: #2F38CC;
+    font-size: 12px;
+}
+.bar2 {
+    color: #7F8C8D;
+}
+.longtext3 {
+    color: #2F38CC;
+    font-size: 12px;
+}
+.longtext4 {
+    color: #2F38CC;
+    font-size: 12px;
+}
+.longtext5{
+    color: #2F38CC;
+    font-size: 12px;
+}
+.textiles{
+  margin-right: 25px;
+}
+.mattressestext2{
+    color:#909497;
+}
+.textiletext2{
+    color:#909497;
+}
+.chestsofdrawers{
+    margin-right: 25px;
+}
+.chestsofdrawerstext2{
+    color:#909497;
+}
+.lighting{
+    margin-right: 25px;
+}
+.lightingtext2{
+    color:#909497;
+}
+.mirrorstext2{
+    color:#909497;
+}
